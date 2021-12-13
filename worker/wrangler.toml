@@ -5,6 +5,6 @@ account_id = "1038c3baca04a332bdbe1736359e7525"
 workers_dev = true
 
 [vars]
-AIRTABLE_BASE_ID = "appeSWNykwi3SMV4O"
-AIRTABLE_TABLE_NAME = "Form Submissions"
+AIRTABLE_BASE_ID = "apppdHQznEXZR3CXY"
+AIRTABLE_TABLE_NAME = "Responses"
 FORM_URL = "workers-airtable-form-bzw.pages.dev"
