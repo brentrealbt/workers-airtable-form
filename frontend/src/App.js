@@ -53,30 +53,7 @@ export default function FormPage() {
         <section className="relative bg-white pb-24" aria-labelledby="contactHeading">
           <div className="absolute w-full h-1/2 bg-warm-gray-50" aria-hidden="true" />
           {/* Decorative dot pattern */}
-          <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <svg
-              className="absolute z-0 top-0 right-0 transform -translate-y-16 translate-x-1/2 sm:translate-x-1/4 md:-translate-y-24 lg:-translate-y-72"
-              width={404}
-              height={384}
-              fill="none"
-              viewBox="0 0 404 384"
-              aria-hidden="true"
-            >
-              <defs>
-                <pattern
-                  id="64e643ad-2176-4f86-b3d7-f2c5da3b6a6d"
-                  x={0}
-                  y={0}
-                  width={20}
-                  height={20}
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect x={0} y={0} width={4} height={4} className="text-warm-gray-200" fill="currentColor" />
-                </pattern>
-              </defs>
-              <rect width={404} height={384} fill="url(#64e643ad-2176-4f86-b3d7-f2c5da3b6a6d)" />
-            </svg>
-          </div>
+          
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="relative bg-white shadow-xl">
               <h2 id="contactHeading" className="sr-only">
