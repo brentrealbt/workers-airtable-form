@@ -61,7 +61,7 @@ export default function FormPage() {
               <div className="grid grid-cols-1 lg:grid-cols-3">
                 {/* Contact information */}
                 <div className="relative overflow-hidden py-10 px-6 bg-gradient-to-b from-teal-500 to-teal-600 sm:px-10 xl:p-12">
-                  {/* Decorative angle backgrounds */}
+                  {/* Decorative angle backgrounds 
                   <div className="absolute inset-0 pointer-events-none sm:hidden" aria-hidden="true">
                     <svg
                       className="absolute inset-0 w-full h-full"
@@ -157,7 +157,7 @@ export default function FormPage() {
                         </linearGradient>
                       </defs>
                     </svg>
-                  </div>
+                  </div> */}
                   <h3 className="text-lg font-medium text-white">Example form</h3>
                   <p className="mt-6 text-base text-teal-50 max-w-3xl">
                     A fully-featured HTML5 <code>form</code> element that submits data to a serverless function.
